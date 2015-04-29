@@ -1,0 +1,12 @@
+{
+  "name": "tilia",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./tilia.js"
+  },
+  "dependencies": {
+    "bloomfilter": "~0.0.14",
+    "byline":"~4.2.1"
+  }
+}
